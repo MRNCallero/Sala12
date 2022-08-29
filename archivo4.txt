@@ -1,4 +1,0 @@
-Hola acá estamos probando git
-
-Esto lo hizo mariano
-Modificado por Fede
